@@ -49,3 +49,5 @@ If you feel the urge to fix my inconsistent indentations and tailwind class orde
 ## Contributing
 
 As far as I'm concerned, this project is complete. As of now, it will not be receiving any further features. This may change later, but my focus will be shifting to the parent project for the foreseeable future. If you wish to submit a PR for a bug fix or security patch, please do. If you wish to extend functionality, hold on to that thought until the full **ichari** release.
+
+## Screenshots
