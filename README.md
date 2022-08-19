@@ -40,7 +40,7 @@
 For a tutorial on how to use the application, I'll have a video linked here as soon as I have another day off work.
 
 ## Server Plugin
-**ichari Shops** has a companion Spigot plugin available here. Be sure to set `SPIGOT_PLUGIN_KEY` in your `.env` file. Instructions on how to use the plugin are available on the page linked above.
+**ichari Shops** has a companion Spigot plugin available [here](https://www.spigotmc.org/resources/ichari-shops.104665/). Be sure to set `SPIGOT_PLUGIN_KEY` in your `.env` file. Instructions on how to use the plugin are available on the page linked above.
 
 ## To-Do
 It should probably be reformatted for readability, but "If it ain't broke..."
