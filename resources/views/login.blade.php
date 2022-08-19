@@ -52,7 +52,7 @@
           </div>
         </button>
         <div>
-          <a href="https://github.com/fingerguns83/ichari" target="_blank" class="text-sm italic underline hover:cursor-pointer text-gray-300">Powered by ichari</a>
+          <a href="https://github.com/fingerguns83/ichari-shops" target="_blank" class="text-sm italic underline hover:cursor-pointer text-gray-300">Powered by ichari</a>
         </div>
       </div>
     </div>
