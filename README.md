@@ -51,3 +51,15 @@ If you feel the urge to fix my inconsistent indentations and tailwind class orde
 As far as I'm concerned, this project is complete. As of now, it will not be receiving any further features. This may change later, but my focus will be shifting to the parent project for the foreseeable future. If you wish to submit a PR for a bug fix or security patch, please do. If you wish to extend functionality, hold on to that thought until the full **ichari** release.
 
 ## Screenshots
+Main Shop List:
+![Main Page](https://raw.githubusercontent.com/fingerguns83/ichari-shops/main/screenshots/shoplist.png)
+Shop Details:
+![Shop Details](https://raw.githubusercontent.com/fingerguns83/ichari-shops/main/screenshots/shopview.png)
+Create Shop:
+![Create Shop](https://raw.githubusercontent.com/fingerguns83/ichari-shops/main/screenshots/createshop.png)
+Edit Shop:
+![Edit Shop](https://raw.githubusercontent.com/fingerguns83/ichari-shops/main/screenshots/editshop.png)
+User Management:
+![User Management](https://raw.githubusercontent.com/fingerguns83/ichari-shops/main/screenshots/userlist.png)
+Mobile Interface:
+![Mobile Interface](https://raw.githubusercontent.com/fingerguns83/ichari-shops/main/screenshots/mobile_interface.png)
