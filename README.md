@@ -25,10 +25,11 @@
 	- When creating your Discord application, add "https://[yourdomainhere]/auth/callback" as a redirect URI (or "http://", whichever you've set as the `APP_URL`).
 6. Run the following:
 	i. `composer install`
-	ii. `npm install`
-	iii. `npm run prod`
-	iv. `php artisan key:generate`
-	v. `php artisan migrate`
+	ii. `composer update`
+	iii. `npm install`
+	iv. `npm run prod`
+	v. `php artisan key:generate`
+	vi. `php artisan migrate`
 7. Add your first shop area with `php artisan area:add` (e.g. `php artisan area:add "Shopping District"`)
 	- You can remove areas with `php artisan area:remove "[target area]"`
 	- If the area contains a space, be sure to wrap it in quotes.
