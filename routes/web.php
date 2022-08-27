@@ -492,7 +492,7 @@ Route::get('/shop/edit/delete/{shop_id}', function($shop_id){
 
 
 Route::get('/userlist', function(Request $request){
-    if (!Auth::user()->isMod){
+    if (!Auth::user()->isMod || !Auth::user()->isAdmin){
         abort(403);
     }
     else{
